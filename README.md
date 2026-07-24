@@ -81,7 +81,8 @@ streamlit run app.py
 
 The causal graph connects workflow configurations (column 1) to outcome metrics (column 3) through two mediator variables (column 2):
 
-<img width="2265" height="1731" alt="causal_graph" src="https://github.com/user-attachments/assets/e9479568-8030-459a-a1d1-b975b3158fdc" />
+<img width="2545" height="1800" alt="causal_graph" src="https://github.com/user-attachments/assets/d555b55c-3fb7-4028-9036-81f1f1a48cc5" />
+
 
 **Causal Variables:** ``shots``, ``noise_rate``, ``optimization_level``, ``num_qubits``, ``circuit_name`` 
 
@@ -96,4 +97,4 @@ See `TASK_5/causal_explanation.md` for full justification of every edge.
 - Mohammad Ali Javidian, Appalachian State University
 
 ## Read the Full Research Report
-**For a comprehensive breakdown of the methodology, experiment explanations, and the final report for this project, please refer to the complete report located in the [`TASK_8/`](TASK_8/) directory.**
+**For a comprehensive breakdown of the methodology, background, and experimental explanations, please refer to the complete report located in the [`TASK_8/`](TASK_8/) directory.**
